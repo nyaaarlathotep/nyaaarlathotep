@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working in saicfc.
 - 💔 Bye, Java.
-- ❤️‍🩹 I’m currently in love with RUST in advent of code 2023.
+- 💘 I’m currently in love with Rust in advent of code 2023.
 - 💬 Ask me about ero game(no) and vidya games(yes).
 - 📝 I regularly write articles on https://nyaaarlathotep.github.io/.
 
