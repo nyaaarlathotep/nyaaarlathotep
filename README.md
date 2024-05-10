@@ -13,6 +13,6 @@ Here are some ideas to get you started:
 - 📝 I regularly write articles on https://nyaaarlathotep.github.io/.
 
 
-![nyaaar's GitHub stats](https://github-readme-stats.vercel.app/api?username=nyaaar&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nyaaarlathotep&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nyaaar&layout=compact)](https://github.com/nyaaar/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nyaaarlathotep&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
