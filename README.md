@@ -6,10 +6,10 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working in saicfc.
+- 🔭 ~~I’m currently working in saicfc.~~ I'm a student again. bravo~
 - 💔 Bye, Java.
-- 💘 I’m currently in love with Rust in advent of code 2023.
-- 💬 Ask me about ero game(no) and vidya games(yes).
+- 💘 I’m currently trying to solve the OCaml 99 problems.
+- 💬 Ask me about ero game(no).
 - 📝 I regularly write articles on https://nyaaarlathotep.github.io/.
 
 
