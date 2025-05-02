@@ -5,8 +5,8 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 ~~I’m currently working in saicfc.~~ I'm a student again. bravo~
-- 💘 I’m currently trying to learn some SICP.
+- 🔭 I'm a student again. bravo~
+- 💘 I’m currently busy preparing for my summer internship interview.
 - 💬 Ask me about ero game(no).
 - 📝 I regularly write articles on https://nyaaarlathotep.github.io/.
 
